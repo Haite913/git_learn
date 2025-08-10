@@ -2,5 +2,7 @@
 
 int main(){
 	printf("dev2 world!");
+	printf("dev1 world!");
+	printf("dev1 world!");
 	return 0;
 }
